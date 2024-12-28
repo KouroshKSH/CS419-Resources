@@ -18,27 +18,30 @@
 - The"Digital Image Processing" book of William K. Pratt is a bit more advanced for those of you who need a more in-depth coverage of these concepts.
 
 ### Python Related Tutorials
-Video tutorials by Hasan Alp Boz:
-- Introduction to Colab
-- Working with Datasets in Colab
-- Notes on Python
-- Google's Python class
-- python/numpy tutorial
-- jupyter tutorial
-- GoogleColab tutorial
+Video tutorials by [Hasan Alp Boz](https://tr.linkedin.com/in/hasan-aboz), all of which require a Sabanci email address to be viewed:
+- [Introduction to Colab](https://drive.google.com/file/d/19g2NuDq9sOLzTm730XyG3EIIqu1GoFOD/view)
+- [Working with Datasets in Colab](https://drive.google.com/file/d/1wVl8cnJ-floTDg0z6mFxIPPEb5T4uFEZ/view)
+- [Notes on Python](https://drive.google.com/file/d/1YayrDTOMmzpV7MmK076xqUeIHT8TNZSw/view) 
 
-> **NOTE:** At the time of making this, these videos were stored on a Google Drive folder. They might have been removed by the time you're seeing this.
+Other tutorials, which are publicly available:
+- [Google's Python class](https://developers.google.com/edu/python/)
+- [python/numpy tutorial](https://compsci682.github.io/notes/python-numpy-tutorial/) from COMPSCI 682 by [Justin Johnson](https://cs.stanford.edu/people/jcjohns/)
+- [jupyter tutorial](https://compsci682.github.io/notes/jupyter-tutorial/) from COMPSCI 682
+- [GoogleColab tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) on Medium by [Fuat](https://medium.com/@fuatbeser)
+
+> **NOTE:** At the time of making this, these videos were stored on a Google Drive folder. They might have been removed by the time you're seeing this. Also, only users with a valid `@sabanciuniv.edu` Gmail account can access these due to strict sharing settings. 
 
 ### Math Brushup
-- Vectors by 3blue1brown [suggested]
-- Linear transformations and matrices by 3blue1brown [suggested]
-- Bayes Theorem by Veritasium  [suggested]
-- Linear algebra review by Andrew Ng [suggested]
+All the resources below have been suggested to be studied prior to the class:
+- [Vectors](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3blue1brown
+- [Linear transformations and matrices](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3) by 3blue1brown
+- [Bayes Theorem](https://www.youtube.com/watch?v=R13BD8qKeTg) by Veritasium  
+- [Linear algebra review](https://www.youtube.com/watch?v=EpNr7ODVW-A&list=PLb0Gp98iu3OyGIWG2gk7VE0DJ4cDNWb6E) by Andrew Ng
 
 ### Notebook
-You have a notebook uploaded on simple operations with grayscale images.
+You have a [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/1_simple_grayscale_image_processing_operations.ipynb) uploaded on simple operations with grayscale images.
 
-> **NOTE:** All the notebooks regarding this course have been provided by Prof. Aptoula and the Teaching Assistants (TA) of this course. All credit goes to them. You can find the notebooks in the `notebooks` folder of this repository.
+> **NOTE:** All the notebooks regarding this course have been provided by Prof. Aptoula and the Teaching Assistants (TA) of this course. All credit goes to them. You can find the notebooks in the `notebooks` folder of this repository, or [this link](https://github.com/KouroshKSH/CS419-Resources/tree/master/notebooks).
 
 ---
 
