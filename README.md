@@ -1,4 +1,16 @@
-# CS419 Resources & Recommended Reading
+# CS419: Digital Image and Video Analysis
+## Introduction 
+This course provided a comprehensive introduction into digital image & video processing and analysis. Major topics were:
+1. Image acquisition
+2. Linear and non-linear filtering
+3. Content description
+4. Video analysis
+
+This course was offered by [Prof. Erchan Aptoula (Erhan Abdullah)](https://sites.google.com/view/erchan-aptoula/) at [Sabanci University](https://sabanciuniv.edu/en) during the 2024-2025 Fall semester.
+
+In the rest of this _README_ file, you can find links for extra studying material and resources that can be helpful for the enthusiasts. It is important to note that all the links were originally provided by Prof. Aptoula himself. **I do not** claim any ownership over these documents/websites. 
+
+---
 
 ## Textbooks
 - Digital Image Processing by Gonzales and Woods
