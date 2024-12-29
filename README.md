@@ -51,13 +51,35 @@ All the resources below have been suggested to be studied prior to the class:
 - [Linear algebra review](https://www.youtube.com/watch?v=EpNr7ODVW-A&list=PLb0Gp98iu3OyGIWG2gk7VE0DJ4cDNWb6E) by Andrew Ng
 
 ### Notebook
-You have a [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/1_simple_grayscale_image_processing_operations.ipynb) uploaded on simple operations with grayscale images.
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/1_simple_grayscale_image_processing_operations.ipynb) on simple operations with grayscale images.
 
 > **NOTE:** All the notebooks regarding this course have been provided by Prof. Aptoula and the Teaching Assistants (TA) of this course. All credit goes to them. You can find the notebooks in the `notebooks` folder of this repository, or [this link](https://github.com/KouroshKSH/CS419-Resources/tree/master/notebooks).
 
 ---
 
 ## Week 2
+### Reading
+From Digital Image Processing of Gonzalez and Woods: 3.1, 3.2, 3.3 and 3.4
+
+### Python Related Tutorials
+- [Official Python Opencv tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) (check out core operations for this week)
+- Unofficial tutorials: [GeeksForGeeks](https://www.geeksforgeeks.org/opencv-python-tutorial/) and [TutorialsPoint](https://www.tutorialspoint.com/opencv_python/index.htm)
+- [Unofficial tutorial video for python-opencv](https://www.youtube.com/watch?v=oXlwWbU8l2o&ab_channel=freeCodeCamp.org&themeRefresh=1) by `freeCodeCamp.org`
+
+### Notebook
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/2_point_processing.ipynb) on point processing.
+
+### This Week's Question
+During class, this question was asked by a student:
+> "Is rotation shift invariant?"
+
+To which, Prof. Aptoula answered:
+> "No."
+
+The visual below explains why:
+![screenshot of week 2's answer](https://github.com/KouroshKSH/CS419-Resources/blob/master/images/Screenshot%20-%20week%202%20-%20rotation%20shift%20invariant.png)
+
+> **NOTE:** [This image](https://github.com/KouroshKSH/CS419-Resources/blob/master/images/Screenshot%20-%20week%202%20-%20rotation%20shift%20invariant.png) can also be found in the [images](https://github.com/KouroshKSH/CS419-Resources/tree/master/images) folder of this repository. 
 
 ---
 
@@ -106,4 +128,4 @@ You have a [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/
 ---
 
 # NOTE
-All of these links have been provided by Prof. Aptoula during the semester. They have been provided as _extra studying material_ for the students of the course CS419. No one claims any ownership rights over the distributed material. All sources have been cited and credited accordingly.
+All of these links have been provided by Prof. Aptoula during the semester. They have been provided as _extra studying material_ for the students of the course CS419. No one claims any ownership rights over the distributed material besides the one created by Prof. Aptoula himself or his teaching assistants. All sources have been cited and credited accordingly. 
