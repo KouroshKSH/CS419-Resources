@@ -83,11 +83,13 @@ The visual below explains why:
 
 ---
 
-## Week 3
+## Weeks 3 and 4
+### Reading
+- From Digital Image Processing of Gonzalez and Woods Sections 9.1 to 9.5
+- Chapters 1-5 from Morphological Image Processing, P. Soille.
 
----
-
-## Week 4
+### Notebook
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/3_binary_image_analysis.ipynb) on binary image analysis.
 
 ---
 
