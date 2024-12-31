@@ -113,6 +113,13 @@ A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks
 ---
 
 ## Week 7
+### Reading
+- From Digital Image Processing of Gonzalez and Woods Section 9.6
+- From Pratt's book: 14.6
+- From Soille's morphological image analysis: chapters 6 and 8
+
+### Notebook
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/6_graysacale_morphology.ipynb) on mathematical morphology for grayscale images.
 
 ---
 
