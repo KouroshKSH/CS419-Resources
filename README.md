@@ -94,6 +94,11 @@ A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks
 ---
 
 ## Week 5
+### Reading
+From Digital Image Processing of Gonzalez and Woods Sections 3.4 to 3.6
+
+### Notebook
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/4_spatial_domain_linear_filtering.ipynb) on linear image processing.
 
 ---
 
