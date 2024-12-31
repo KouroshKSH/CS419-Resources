@@ -124,18 +124,35 @@ A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks
 ---
 
 ## Week 8
+### Reading
+- From Digital Image Processing of Gonzalez and Woods Chapter 6 (required)
+- From Pratt's book: chapter 3 for a more in-depth coverage (optional)
+
+### Notebook
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/7_color_image_processing.ipynb) on color-based image processing.
 
 ---
 
 ## Week 9
+### Reading
+- From Digital Image Processing of Gonzalez and Woods Chapter 10 (required)
+- From Szeliski's book: Section 7.5 (optional)
+
+### Notebook
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/8_image_segmentation.ipynb) on image segmentation.
 
 ---
 
-## Week 10
+## Weeks 10 and 11
+### Reading
+From Digital Image Processing of Gonzalez and Woods Chapter 11 [required]
 
----
+### Videos
+- [Image classification using gray-level co-occurrence matrix (GLCM) features and LGBM classifier](https://www.youtube.com/watch?v=5x-CIHRmMNY) by [DigitalSreeni](https://www.youtube.com/@DigitalSreeni) on YouTube
+- [how are the Local Binary Pattern (LBP) values calculated?](https://www.youtube.com/watch?v=h-z9-bMtd7w&list=PLVLAu9B7VtkbmfbamE0kRutTMbPTlCYyM) by [Ritika xRay Pixy](https://www.youtube.com/@RitikaxRayPixy) on YouTube
 
-## Week 11
+### Notebook
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/9_image_description.ipynb) on image descriptors.
 
 ---
 
