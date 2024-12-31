@@ -98,11 +98,17 @@ A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks
 From Digital Image Processing of Gonzalez and Woods Sections 3.4 to 3.6
 
 ### Notebook
-A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/4_spatial_domain_linear_filtering.ipynb) on linear image processing.
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/4_spatial_domain_linear_filtering.ipynb) on linear image processing for spatial domain.
 
 ---
 
 ## Week 6
+### Reading
+- From Digital Image Processing of Gonzalez and Woods Chapter 4
+- From Pratt's book: chapters 8 and 9 for an indepth coverage of image transforms (optional).
+
+### Notebook
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/5_frequency_domain_linear_filtering.ipynb) on linear image processing for frequency domain.
 
 ---
 
