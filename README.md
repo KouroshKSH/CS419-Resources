@@ -157,12 +157,47 @@ A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks
 ---
 
 ## Week 12
+### Reading
+I highly recommend the following books (all available online - one way or another), they all have convnet specific chapters that I suggest reading.
+
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [The Deep Learning Book](https://www.deeplearningbook.org/) by Ian Goodfellowm, Yoshua Bengio and Aaron Courville
+- [Dive into deep learning](https://d2l.ai/), an interactive deep learning book with code, math and discussions
+- [Practical Machine Learning for Computer Vision](https://github.com/GoogleCloudPlatform/practical-ml-vision-book) by [Google Cloud Platform](https://github.com/GoogleCloudPlatform), for those of you preferring Keras+Tensorflow
+
+### Notebook
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/10_texture_image_descriptors.ipynb) on image descriptors for texture.
+
+### Blogs/videos/tutorials
+
+- [Google Playground Exercises](https://developers.google.com/machine-learning/crash-course/neural-networks/interactive-exercises) for Neural Networks
+- [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) playlist by [3blue1brown](https://www.youtube.com/@3blue1brown) on YouTube
+- [CS231n Stanford notes](https://cs231n.github.io/neural-networks-1/) on Convolutional Neural Networks for Visual Recognition
+- [Convolution in Image Processing](https://www.youtube.com/watch?v=8rrHTtUzyZA), presented by [3blue1brown](https://www.youtube.com/@3blue1brown) on [The Julia Programming Language](https://www.youtube.com/@TheJuliaLanguage)'s YouTube channel
+- Andrew Ng [slides](https://cs230.stanford.edu/files/C4M1.pdf) on CNNs & [videos](https://www.youtube.com/watch?v=2-Ol7ZB0MmU&list=PLFKog8qYYq0HOfk3EIYyg6O1008OebB5t) on YouTube
 
 ---
 
 ## Week 13
+### Reading
+- Object detection algorithms
+- Guide to object detection
+- Object detection in 2024
+- Segmentation overview
+- Segmentation old vs new
+- Segmentation review, 2020
+- Another segmentation blog
+- Objection detection github
+- Segmentation github
+- Open MM-detection (a nice framework for instance segmentation)
+
+### Notebook
+A [notebook]() on ...
 
 ---
 
-# NOTE
+# ATTENTION!
 All of these links have been provided by Prof. Aptoula during the semester. They have been provided as _extra studying material_ for the students of the course CS419. No one claims any ownership rights over the distributed material besides the one created by Prof. Aptoula himself or his teaching assistants. All sources have been cited and credited accordingly. 
+
+
+---
