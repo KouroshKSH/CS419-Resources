@@ -180,19 +180,19 @@ A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks
 
 ## Week 13
 ### Reading
-- Object detection algorithms
-- Guide to object detection
-- Object detection in 2024
-- Segmentation overview
-- Segmentation old vs new
-- Segmentation review, 2020
-- Another segmentation blog
-- Objection detection github
-- Segmentation github
-- Open MM-detection (a nice framework for instance segmentation)
+- [Object detection algorithms](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e) on Medium
+- [Guide to object detection](https://www.v7labs.com/blog/object-detection-guide) by [V7 Labs](https://www.v7labs.com/)
+- [Object Detection Guide](https://viso.ai/deep-learning/object-detection/) by [Viso AI](https://viso.ai/)
+- [Image Segmentation with Deep Learning](https://viso.ai/deep-learning/image-segmentation-using-deep-learning/) by Viso AI
+- [Image Segmentation: Traditional vs. Deep Learning Techniques](https://www.v7labs.com/blog/image-segmentation-guide) by V7 Labs
+- _Image Segmentation Using Deep Learning: A Survey_ [paper](https://arxiv.org/pdf/2001.05566) by Minaee et. al., 2020
+- [Instance Segmentation: Comprehensive Guide](https://www.basic.ai/blog-post/instance-segmentation-in-2024) blog by [Basic AI](https://www.basic.ai/)
+- [Objection Detection Articles](https://github.com/amusi/awesome-object-detection) by [Amusi](https://github.com/amusi) on GitHub
+- [Semantic Segmentation Links](https://github.com/mrgloom/awesome-semantic-segmentation) by [mrgloom](https://github.com/mrgloom) on GitHub 
+- [Open MMDetection](https://github.com/mrgloom) repository by [OpenMMLab](https://openmmlab.com/) on GitHub; a nice framework for instance segmentation
 
 ### Notebook
-A [notebook]() on ...
+A [notebook](https://github.com/KouroshKSH/CS419-Resources/blob/master/notebooks/11_image_classification_using_cnn.ipynb) on image classification using CNNs.
 
 ---
 
